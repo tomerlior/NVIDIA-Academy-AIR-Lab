@@ -1,0 +1,28 @@
+##############################################
+graph NewName { 
+   "leaf1"       [function="leaf" version="3.7.12" ]
+   "leaf2"      [function="leaf" version="3.7.12" ]
+   "spine3"  [function="spine" version="3.7.12" ]
+   "spine4"  [function="spine" version="3.7.12" ]
+   "host1"   [function="host"  ]
+   "host2"   [function="host"  ]
+   "host3"   [function="host"  ]
+   "host4"   [function="host"  ]
+
+   "spine3":"swp3" -- "spine4":"swp3"
+   "spine3":"swp4" -- "spine4":"swp4"
+
+   "spine3":"swp1" -- "leaf1":"swp1"
+   "spine3":"swp2" -- "leaf2":"swp2"
+
+   "spine4":"swp1" -- "leaf2":"swp1"
+   "spine4":"swp2" -- "leaf1":"swp2"
+
+   "leaf1":"swp5" -- "leaf2":"swp5"
+   "leaf1":"swp6" -- "leaf2":"swp6"
+
+   "host1":"eth2" -- "leaf1":"swp8"
+   "host2":"eth2" -- "leaf1":"swp9"
+   "host3":"eth2" -- "leaf2":"swp8"
+   "host4":"eth2" -- "leaf2":"swp9"
+}
