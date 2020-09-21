@@ -1,0 +1,13 @@
+
+// host 1
+ifconfig eth2 0.0.0.0
+hostnamectl set-hostname host1
+// host 2
+ifconfig eth2 0.0.0.0
+hostnamectl set-hostname host2
+// host 3
+ifconfig eth2 0.0.0.0
+hostnamectl set-hostname host3
+// host 4
+ifconfig eth2 0.0.0.0
+hostnamectl set-hostname host4
