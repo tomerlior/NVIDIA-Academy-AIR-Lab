@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 391.52 418.54"
+   viewBox="-50 -50 700.00001 499.99999"
    version="1.1"
    id="svg364"
    sodipodi:docname="LabTopology.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   width="700"
+   height="500">
   <style
      id="style572" />
   <metadata
@@ -22,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,14 +43,16 @@
      showgrid="false"
      inkscape:zoom="1.3971838"
      inkscape:cx="228.0719"
-     inkscape:cy="172.04838"
+     inkscape:cy="229.30642"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg364"
      inkscape:snap-grids="true"
      inkscape:snap-page="true"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     viewbox-x="-50"
+     viewbox-y="-50" />
   <defs
      id="defs192">
     <style
@@ -196,19 +200,19 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c">L3</text>
     <polygon
        class="cls-3"
-       points="70.22,45.03 70.22,40.65 55.89,40.65 55.89,37.38 46.45,42.84 55.89,48.3 55.89,45.03 "
+       points="55.89,48.3 55.89,45.03 70.22,45.03 70.22,40.65 55.89,40.65 55.89,37.38 46.45,42.84 "
        id="polygon198" />
     <polygon
        class="cls-3"
-       points="55.89,21.84 46.45,27.3 55.89,32.75 55.89,29.48 70.22,29.48 70.22,25.11 55.89,25.11 "
+       points="70.22,25.11 55.89,25.11 55.89,21.84 46.45,27.3 55.89,32.75 55.89,29.48 70.22,29.48 "
        id="polygon200" />
     <polygon
        class="cls-3"
-       points="84.54,40.52 93.99,35.07 84.54,29.61 84.54,32.88 70.22,32.88 70.22,37.26 84.54,37.26 "
+       points="70.22,37.26 84.54,37.26 84.54,40.52 93.99,35.07 84.54,29.61 84.54,32.88 70.22,32.88 "
        id="polygon202" />
     <polygon
        class="cls-3"
-       points="70.22,17.33 70.22,21.71 84.54,21.71 84.54,24.98 93.99,19.52 84.54,14.07 84.54,17.33 "
+       points="84.54,14.07 84.54,17.33 70.22,17.33 70.22,21.71 84.54,21.71 84.54,24.98 93.99,19.52 "
        id="polygon204" />
     <path
        class="cls-3"
@@ -228,22 +232,22 @@
        id="text210"
        x="314.79999"
        y="14.95"
-       style="-inkscape-font-specification:'Consolas, Bold';font-family:Consolas;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c;">L3</text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c">L3</text>
     <polygon
        class="cls-3"
-       points="320.22,45.03 320.22,40.65 305.89,40.65 305.89,37.38 296.44,42.84 305.89,48.3 305.89,45.03 "
+       points="305.89,48.3 305.89,45.03 320.22,45.03 320.22,40.65 305.89,40.65 305.89,37.38 296.44,42.84 "
        id="polygon212" />
     <polygon
        class="cls-3"
-       points="305.89,21.84 296.44,27.3 305.89,32.75 305.89,29.48 320.22,29.48 320.22,25.11 305.89,25.11 "
+       points="320.22,25.11 305.89,25.11 305.89,21.84 296.44,27.3 305.89,32.75 305.89,29.48 320.22,29.48 "
        id="polygon214" />
     <polygon
        class="cls-3"
-       points="334.54,40.52 343.99,35.07 334.54,29.61 334.54,32.88 320.22,32.88 320.22,37.26 334.54,37.26 "
+       points="320.22,37.26 334.54,37.26 334.54,40.52 343.99,35.07 334.54,29.61 334.54,32.88 320.22,32.88 "
        id="polygon216" />
     <polygon
        class="cls-3"
-       points="320.22,17.33 320.22,21.71 334.54,21.71 334.54,24.98 343.99,19.52 334.54,14.07 334.54,17.33 "
+       points="334.54,14.07 334.54,17.33 320.22,17.33 320.22,21.71 334.54,21.71 334.54,24.98 343.99,19.52 "
        id="polygon218" />
     <path
        class="cls-3"
@@ -263,22 +267,22 @@
        id="text224"
        x="64.800003"
        y="197.95"
-       style="-inkscape-font-specification:'Consolas, Bold';font-family:Consolas;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c;">L3</text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c">L3</text>
     <polygon
        class="cls-3"
-       points="70.22,228.03 70.22,223.65 55.89,223.65 55.89,220.38 46.45,225.84 55.89,231.3 55.89,228.03 "
+       points="55.89,231.3 55.89,228.03 70.22,228.03 70.22,223.65 55.89,223.65 55.89,220.38 46.45,225.84 "
        id="polygon226" />
     <polygon
        class="cls-3"
-       points="55.89,204.84 46.45,210.29 55.89,215.75 55.89,212.48 70.22,212.48 70.22,208.11 55.89,208.11 "
+       points="70.22,208.11 55.89,208.11 55.89,204.84 46.45,210.29 55.89,215.75 55.89,212.48 70.22,212.48 "
        id="polygon228" />
     <polygon
        class="cls-3"
-       points="84.54,223.52 93.99,218.07 84.54,212.61 84.54,215.88 70.22,215.88 70.22,220.25 84.54,220.25 "
+       points="70.22,220.25 84.54,220.25 84.54,223.52 93.99,218.07 84.54,212.61 84.54,215.88 70.22,215.88 "
        id="polygon230" />
     <polygon
        class="cls-3"
-       points="70.22,200.33 70.22,204.71 84.54,204.71 84.54,207.98 93.99,202.52 84.54,197.07 84.54,200.33 "
+       points="84.54,197.07 84.54,200.33 70.22,200.33 70.22,204.71 84.54,204.71 84.54,207.98 93.99,202.52 "
        id="polygon232" />
     <path
        class="cls-3"
@@ -298,22 +302,22 @@
        id="text238"
        x="314.79999"
        y="197.95"
-       style="-inkscape-font-specification:'Consolas, Bold';font-family:Consolas;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c;">L3</text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c">L3</text>
     <polygon
        class="cls-3"
-       points="320.22,228.03 320.22,223.65 305.89,223.65 305.89,220.38 296.44,225.84 305.89,231.3 305.89,228.03 "
+       points="305.89,231.3 305.89,228.03 320.22,228.03 320.22,223.65 305.89,223.65 305.89,220.38 296.44,225.84 "
        id="polygon240" />
     <polygon
        class="cls-3"
-       points="305.89,204.84 296.44,210.29 305.89,215.75 305.89,212.48 320.22,212.48 320.22,208.11 305.89,208.11 "
+       points="320.22,208.11 305.89,208.11 305.89,204.84 296.44,210.29 305.89,215.75 305.89,212.48 320.22,212.48 "
        id="polygon242" />
     <polygon
        class="cls-3"
-       points="334.54,223.52 343.99,218.07 334.54,212.61 334.54,215.88 320.22,215.88 320.22,220.25 334.54,220.25 "
+       points="320.22,220.25 334.54,220.25 334.54,223.52 343.99,218.07 334.54,212.61 334.54,215.88 320.22,215.88 "
        id="polygon244" />
     <polygon
        class="cls-3"
-       points="320.22,200.33 320.22,204.71 334.54,204.71 334.54,207.98 343.99,202.52 334.54,197.07 334.54,200.33 "
+       points="334.54,197.07 334.54,200.33 320.22,200.33 320.22,204.71 334.54,204.71 334.54,207.98 343.99,202.52 "
        id="polygon246" />
     <path
        class="cls-3"
@@ -935,19 +939,19 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#05145c">L3</text>
     <polygon
        class="cls-3"
-       points="55.89,37.38 46.45,42.84 55.89,48.3 55.89,45.03 70.22,45.03 70.22,40.65 55.89,40.65 "
+       points="70.22,40.65 55.89,40.65 55.89,37.38 46.45,42.84 55.89,48.3 55.89,45.03 70.22,45.03 "
        id="polygon1659" />
     <polygon
        class="cls-3"
-       points="55.89,29.48 70.22,29.48 70.22,25.11 55.89,25.11 55.89,21.84 46.45,27.3 55.89,32.75 "
+       points="46.45,27.3 55.89,32.75 55.89,29.48 70.22,29.48 70.22,25.11 55.89,25.11 55.89,21.84 "
        id="polygon1661" />
     <polygon
        class="cls-3"
-       points="84.54,32.88 70.22,32.88 70.22,37.26 84.54,37.26 84.54,40.52 93.99,35.07 84.54,29.61 "
+       points="93.99,35.07 84.54,29.61 84.54,32.88 70.22,32.88 70.22,37.26 84.54,37.26 84.54,40.52 "
        id="polygon1663" />
     <polygon
        class="cls-3"
-       points="84.54,24.98 93.99,19.52 84.54,14.07 84.54,17.33 70.22,17.33 70.22,21.71 84.54,21.71 "
+       points="70.22,21.71 84.54,21.71 84.54,24.98 93.99,19.52 84.54,14.07 84.54,17.33 70.22,17.33 "
        id="polygon1665" />
     <path
        class="cls-3"
