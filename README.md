@@ -12,8 +12,9 @@ This is a repository containing resources for the Cumulus AIR virtual academy la
 # Usage
 
 To create a virtual lab enter https://air.cumulusnetworks.com/SimulationsAll
-and create a new topology.
-than choose the *topology.dot* file and wait 5-10 minutes until all devices are booted.
+and create a new topology according to the reference topology - "*AcademyILT*".
+Alternatively, you can create a new lab simulation using the *topology.dot* file
+wait 5-10 minutes until all devices are booted.
 
 # Support
 
